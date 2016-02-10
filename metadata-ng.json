@@ -1,0 +1,33 @@
+{
+    "name": "Node.js MEAN Starter",
+    "services": [
+	{
+            "name": "mongodb",
+            "choices": ["100"]
+        }
+     ],
+    "defaultMemory": 512,
+    "startCommand": "node app.js",
+    "description": "MEAN is a framework for an easy starting point with MongoDB, Node.js, Express, and AngularJS based applications.",
+    "type": "web",
+    "version": "0.0",
+    "smallIcon": "mean_icon_REPLACE.png",
+    "icon": "mean_icon_REPLACE.png",
+    "largeIcon": "mean_icon_REPLACE.png",
+    "featuredIcon": "mean_icon_REPLACE.png",
+    "marqueeIcon": "node_DataCache_marquee.png",
+    "headingIcon": "node_DataCache_heading.png",
+    "source": {
+        "scmType": "git",
+        "url": "https://github.com/IBM-Bluemix/nodejs-MEAN-stack.git",
+        "appPath": ""
+    },
+    "docURL": "https://github.com/IBM-Bluemix/nodejs-MEAN-stack",
+    "system_tags": [
+	"community"
+	],
+    "runtime_id": "763dcb4a-8642-4676-ae17-ca5bd032ad9e",
+    "categories": ["boilerplate"],
+    "runtime_template_id": "nodejsHelloWorld"
+	}
+}
