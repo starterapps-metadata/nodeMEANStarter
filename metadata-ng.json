@@ -7,7 +7,7 @@
         }
      ],
     "defaultMemory": 512,
-    "description": "MEAN is a framework for an easy starting point with MongoDB, Node.js, Express, and AngularJS based applications.",
+    "description": "Sample MEAN (MongoDB, Node.js, Express, and AngularJS) based application.",
     "type": "web",
     "version": "0.0",
     "smallIcon": "runtime-js-m_24.png",
